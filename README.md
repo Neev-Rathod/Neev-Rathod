@@ -6,7 +6,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/neev-rathod" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/neev-rathod-09ba6431b/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://codeforces.com/profile/neevrathod" target="_blank" rel="noreferrer">
